@@ -1,2 +1,5 @@
 MAJALAH* filter=lfs diff=lfs merge=lfs -text
 MAJALAH[[:space:]]GALAKSI.cdr filter=lfs diff=lfs merge=lfs -text
+Background.cdr filter=lfs diff=lfs merge=lfs -text
+Backup_of_Background.cdr filter=lfs diff=lfs merge=lfs -text
+Backup_of_MAJALAH[[:space:]]GALAKSI.cdr filter=lfs diff=lfs merge=lfs -text

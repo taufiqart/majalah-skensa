@@ -3,3 +3,7 @@ MAJALAH[[:space:]]GALAKSI.cdr filter=lfs diff=lfs merge=lfs -text
 Background.cdr filter=lfs diff=lfs merge=lfs -text
 Backup_of_Background.cdr filter=lfs diff=lfs merge=lfs -text
 Backup_of_MAJALAH[[:space:]]GALAKSI.cdr filter=lfs diff=lfs merge=lfs -text
+MAJALAH[[:space:]]GALAKSI[[:space:]]hal[[:space:]]11-22.cdr filter=lfs diff=lfs merge=lfs -text
+Backup_of_MAJALAH[[:space:]]GALAKSI[[:space:]]hal[[:space:]]1-10.cdr filter=lfs diff=lfs merge=lfs -text
+Backup_of_MAJALAH[[:space:]]GALAKSI[[:space:]]hal[[:space:]]11-22.cdr filter=lfs diff=lfs merge=lfs -text
+MAJALAH[[:space:]]GALAKSI[[:space:]]hal[[:space:]]1-10.cdr filter=lfs diff=lfs merge=lfs -text
